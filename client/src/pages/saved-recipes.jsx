@@ -1,4 +1,3 @@
-export const SavedRecipes = () => {
-
-    return <div> SavedRecipes </div>;
-}
+export const SavedRecipes = () =>{
+    return <div>SavedRecipes</div>
+};
